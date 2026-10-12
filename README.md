@@ -14,9 +14,6 @@
 
 <!-- Header Badges & Profile Views -->
 <p align="center">
-  <a href="https://github.com/Haridh432">
-    <img src="https://komarev.com/ghpvc/?username=Haridh432&label=PROFILE+VIEWS&style=flat-square&color=00f2fe&labelColor=0d1117" alt="Profile Views" />
-  </a>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-00f2fe?style=flat-square&logo=wireshark&logoColor=white&labelColor=0d1117" alt="Cybersecurity" />
   <img src="https://img.shields.io/badge/Core-Python_Automation-38bdf8?style=flat-square&logo=python&logoColor=white&labelColor=0d1117" alt="Python" />
   <img src="https://img.shields.io/badge/Hardware-Embedded_%26_IoT-8b5cf6?style=flat-square&logo=espressif&logoColor=white&labelColor=0d1117" alt="IoT" />
